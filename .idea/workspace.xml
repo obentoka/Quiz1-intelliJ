@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b253442-df9c-42e2-a192-a1447870be1a" name="Default Changelist" comment="" />
+    <list default="true" id="4b253442-df9c-42e2-a192-a1447870be1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringUtilsGetMiddleCharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringUtilsRemoveCharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringUtilsReturnInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringUtilsReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringUtilsGetLastWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringUtilsGetLastWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MathUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MathUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StringUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringUtilities.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,7 @@
     <favorites_list name="CodeIris Favorites" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BlueJ.Quiz1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -36,6 +46,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -49,7 +60,20 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StringUtilsGetLastWordTest">
+    <configuration name="MathUtilitiesAddTest and 3 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Quiz1 IntelliJ" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="MathUtilitiesAddTest" />
+        <pattern testClass="MathUtilitiesHalfTest" />
+        <pattern testClass="MathUtilitiesIsOddTest" />
+        <pattern testClass="MathUtilitiesSquareTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MathUtilitiesAddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Quiz1 IntelliJ" />
       <option name="PACKAGE_NAME" value="" />
@@ -59,8 +83,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringUtilsConcatenateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Quiz1 IntelliJ" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringUtilsConcatenateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsGetLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Quiz1 IntelliJ" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringUtilsGetLastWordTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringUtilsGetLastWordTest" />
+        <item itemvalue="JUnit.StringUtilsConcatenateTest" />
+        <item itemvalue="JUnit.MathUtilitiesAddTest and 3 more" />
         <item itemvalue="JUnit.MathUtilitiesAddTest" />
       </list>
     </recent_temporary>
@@ -77,6 +122,7 @@
       <updated>1581778545716</updated>
       <workItem from="1581778547622" duration="1374000" />
       <workItem from="1581779941569" duration="115000" />
+      <workItem from="1581780659635" duration="4748000" />
     </task>
     <servers />
   </component>
@@ -89,22 +135,42 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1216" height="175" key="GridCell.Tab.0.bottom" timestamp="1581780058934">
+    <state x="367" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581883250291">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1216" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581780058934" />
-    <state width="1216" height="175" key="GridCell.Tab.0.center" timestamp="1581780058933">
+    <state x="367" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581883250291" />
+    <state width="1216" height="175" key="GridCell.Tab.0.bottom" timestamp="1581883341855">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1216" height="175" key="GridCell.Tab.0.center/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581780058933" />
-    <state width="1216" height="175" key="GridCell.Tab.0.left" timestamp="1581780058933">
+    <state width="1216" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581883341855" />
+    <state width="1216" height="175" key="GridCell.Tab.0.center" timestamp="1581883341853">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1216" height="175" key="GridCell.Tab.0.left/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581780058933" />
-    <state width="1216" height="175" key="GridCell.Tab.0.right" timestamp="1581780058934">
+    <state width="1216" height="175" key="GridCell.Tab.0.center/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581883341852" />
+    <state width="1216" height="175" key="GridCell.Tab.0.left" timestamp="1581883341852">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1216" height="175" key="GridCell.Tab.0.right/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581780058934" />
+    <state width="1216" height="175" key="GridCell.Tab.0.left/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581883341852" />
+    <state width="1216" height="175" key="GridCell.Tab.0.right" timestamp="1581883341854">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1216" height="175" key="GridCell.Tab.0.right/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581883341854" />
+    <state width="1216" height="218" key="GridCell.Tab.1.bottom" timestamp="1581781132542">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1216" height="218" key="GridCell.Tab.1.bottom/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581781132542" />
+    <state width="1216" height="218" key="GridCell.Tab.1.center" timestamp="1581781132541">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1216" height="218" key="GridCell.Tab.1.center/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581781132541" />
+    <state width="1216" height="218" key="GridCell.Tab.1.left" timestamp="1581781132540">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1216" height="218" key="GridCell.Tab.1.left/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581781132540" />
+    <state width="1216" height="218" key="GridCell.Tab.1.right" timestamp="1581781132541">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1216" height="218" key="GridCell.Tab.1.right/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1581781132541" />
     <state x="178" y="39" key="Maven.ArtifactSearchDialog" timestamp="1581778969563">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
